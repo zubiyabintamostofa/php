@@ -11,7 +11,7 @@ table, th, td {
 }
 
 th, td {
-    text-align: center;
+    text-align: center
 }
 </style>
     <title>Document</title>
